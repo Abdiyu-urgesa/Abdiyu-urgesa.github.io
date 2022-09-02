@@ -233,6 +233,7 @@ body.dark-theme {
 }
 
 .nav__toggle {
+  margin-right: 5rem;
   font-size: 1.3rem;
   cursor: pointer;
 }
